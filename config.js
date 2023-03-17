@@ -53,19 +53,19 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '923196057528' //Nomor Bot
+global.nomorown = '923196057528' //Nomor Owner
+global.namebot = '𝐀𝐑 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓' //Nama Bot
+global.nameown = '𝐀𝐑 𝐊𝐈𝐍𝐆' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //Replace your number with your name
+  ['923196057528', '𝐀𝐑 𝐊𝐈𝐍𝐆', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['923470027813','68673045381','923191089077'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['923196057528','12023002346','923415382818'] // Premium user is not here to add it, type .addprem @ user 10
 
 
 global.lolkey = 'apikeymu'
@@ -97,24 +97,24 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷'
+global.wm = '「 𝐀𝐑 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Malik SahaB- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '𝐀𝐑 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓'
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ 𝐀𝐑 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓 ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
-global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
+global.logo = 'https://i.imgur.com/oq5ThSf.jpeg'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/cc8jfkX/01.jpg' //Main Thumbnail
-global.thumb2 = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.thumbbc = 'https://i.ibb.co/cc8jfkX/01.jpg' //For broadcast
+global.thumb = 'https://i.imgur.com/oq5ThSf.jpeg' //Main Thumbnail
+global.thumb2 = 'https://i.imgur.com/MtB0MWj.jpeg'
+global.thumbbc = 'https://i.imgur.com/MtB0MWj.jpeg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumblvlup = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.hwaifu = ['https://i.ibb.co/cc8jfkX/01.jpg']
+global.thumblvlup = 'https://i.imgur.com/MtB0MWj.jpeg'
+global.hwaifu = ['https://i.imgur.com/oq5ThSf.jpeg']
 
 /*============== FlamingText ===========*/
 global.flaaa = [
@@ -171,9 +171,9 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'x_ikratos_x'
-global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
+global.stickauth = `「 𝐀𝐑 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓 」`
+global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ 𝐀𝐑 𝐊𝐈𝐍𝐆 𝐁𝐎𝐓'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs𝐀𝐑 𝐊𝐈𝐍𝐆'
 
 global.multiplier = 38 // The higher, The harder levelup
 
